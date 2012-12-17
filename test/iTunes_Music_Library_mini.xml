@@ -1,0 +1,302 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Major Version</key><integer>1</integer>
+	<key>Minor Version</key><integer>1</integer>
+	<key>Date</key><date>2012-09-23T05:25:21Z</date>
+	<key>Application Version</key><string>10.7</string>
+	<key>Features</key><integer>5</integer>
+	<key>Show Content Ratings</key><true/>
+	<key>Music Folder</key><string>file://localhost/Users/sarah/Music/iTunes/iTunes%20Media/</string>
+	<key>Library Persistent ID</key><string>BB3C4319653FDE68</string>
+	<key>Tracks</key>
+	<dict>
+                <key>3065</key>
+		<dict>
+			<key>Track ID</key><integer>3065</integer>
+			<key>Name</key><string>The Reason</string>
+			<key>Artist</key><string>Celine Dion</string>
+			<key>Album Artist</key><string>Celine Dion</string>
+			<key>Composer</key><string>Carole King &#38; Mark Hudson &#38; Greg Wells</string>
+			<key>Album</key><string>Let's Talk About Love</string>
+			<key>Genre</key><string>Easy Listening</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>6026727</integer>
+			<key>Total Time</key><integer>301217</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Year</key><integer>1997</integer>
+			<key>BPM</key><integer>146</integer>
+			<key>Date Modified</key><date>2010-09-15T07:29:07Z</date>
+			<key>Date Added</key><date>2008-06-28T07:33:30Z</date>
+			<key>Bit Rate</key><integer>160</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string> 00000000 00000210 000007EC 0000000000CAA784 00000000 00000000 00000000 00000000 00000000 00000000 00000000 00000000</string>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3365216993</integer>
+			<key>Play Date UTC</key><date>2010-08-21T13:29:53Z</date>
+			<key>Skip Count</key><integer>2</integer>
+			<key>Skip Date</key><date>2010-06-29T04:18:39Z</date>
+			<key>Album Rating</key><integer>60</integer>
+			<key>Album Rating Computed</key><true/>
+			<key>Sort Name</key><string>Reason</string>
+			<key>Persistent ID</key><string>BB3C4319653FDE7F</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Users/sarah/Music/iTunes/iTunes%20Media/Music/Celine%20Dion/Let's%20Talk%20About%20Love/01%20The%20Reason.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+                <key>6783</key>
+		<dict>
+			<key>Track ID</key><integer>6783</integer>
+			<key>Name</key><string>500 Miles</string>
+			<key>Artist</key><string>Tori Amos</string>
+			<key>Album Artist</key><string>Tori Amos</string>
+			<key>Composer</key><string>Tori Amos</string>
+			<key>Album</key><string>Abnormally Attracted to Sin</string>
+			<key>Genre</key><string>Adult Alternative</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>5969484</integer>
+			<key>Total Time</key><integer>248241</integer>
+			<key>Track Number</key><integer>12</integer>
+			<key>Year</key><integer>2009</integer>
+			<key>Date Modified</key><date>2010-06-24T01:19:40Z</date>
+			<key>Date Added</key><date>2010-06-24T02:15:04Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3360965824</integer>
+			<key>Play Date UTC</key><date>2010-07-03T08:37:04Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>768DBA3F89899D22</string>
+			<key>Disabled</key><true/>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/C:/Users/Sarah/Music/Marissa/Tori%20Amos/Abnormally%20Attracted%20to%20Sin/12%20-%20500%20Miles.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+                <key>10159</key>
+		<dict>
+			<key>Track ID</key><integer>10159</integer>
+			<key>Name</key><string>500 Miles</string>
+			<key>Artist</key><string>Tori Amos</string>
+			<key>Album Artist</key><string>Tori Amos</string>
+			<key>Composer</key><string>Tori Amos</string>
+			<key>Album</key><string>Abnormally Attracted to Sin</string>
+			<key>Genre</key><string>Adult Alternative</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>5969484</integer>
+			<key>Total Time</key><integer>248241</integer>
+			<key>Track Number</key><integer>12</integer>
+			<key>Year</key><integer>2009</integer>
+			<key>Date Modified</key><date>2010-06-24T01:19:40Z</date>
+			<key>Date Added</key><date>2012-07-26T04:04:16Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>25743B5DD0A68323</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Users/sarah/Music/iTunes/iTunes%20Media/Music/Tori%20Amos/Abnormally%20Attracted%20to%20Sin/12%20500%20Miles.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+                <key>5017</key>
+		<dict>
+			<key>Track ID</key><integer>5017</integer>
+			<key>Name</key><string>You're Nobody Till Somebody Loves You</string>
+			<key>Artist</key><string>Michael Bublé</string>
+			<key>Album</key><string>Crazy Love</string>
+			<key>Genre</key><string>Jazz</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>6178656</integer>
+			<key>Total Time</key><integer>187400</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>9</integer>
+			<key>Track Count</key><integer>13</integer>
+			<key>Year</key><integer>2009</integer>
+			<key>Date Modified</key><date>2010-01-10T06:19:08Z</date>
+			<key>Date Added</key><date>2010-01-10T05:18:43Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3365208090</integer>
+			<key>Play Date UTC</key><date>2010-08-21T11:01:30Z</date>
+			<key>Compilation</key><true/>
+			<key>Persistent ID</key><string>C5A2D67E4E9D44E2</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Users/sarah/Music/iTunes/iTunes%20Media/Compilations/Crazy%20Love/09%20You're%20Nobody%20Till%20Somebody%20Loves.m4a</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+                <key>5951</key>
+		<dict>
+			<key>Track ID</key><integer>5951</integer>
+			<key>Name</key><string>You're Nobody Till Somebody Loves You - 126bpm</string>
+			<key>Artist</key><string>Frank Sinatra</string>
+			<key>Grouping</key><string>Foxtrot</string>
+			<key>Genre</key><string>Classic Jazz</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>2114611</integer>
+			<key>Total Time</key><integer>131787</integer>
+			<key>Date Modified</key><date>2010-09-26T20:13:48Z</date>
+			<key>Date Added</key><date>2010-06-24T02:14:31Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Skip Count</key><integer>2</integer>
+			<key>Skip Date</key><date>2010-07-19T04:15:36Z</date>
+			<key>Persistent ID</key><string>01B8F4D6F6FF01C4</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/C:/Users/Sarah/Music/Marissa/Frank%20Sinatra/Unknown%20Album/00%20-%20You're%20Nobody%20Till%20Somebody%20Loves%20You.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+                <key>8971</key>
+		<dict>
+			<key>Track ID</key><integer>8971</integer>
+			<key>Name</key><string>You're Nobody Till Somebody Loves You</string>
+			<key>Artist</key><string>Michael Bublé</string>
+			<key>Album</key><string>Crazy Love</string>
+			<key>Genre</key><string>Jazz</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>6183190</integer>
+			<key>Total Time</key><integer>187400</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>9</integer>
+			<key>Track Count</key><integer>13</integer>
+			<key>Year</key><integer>2009</integer>
+			<key>Date Modified</key><date>2010-06-24T01:20:24Z</date>
+			<key>Date Added</key><date>2012-07-26T04:02:14Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>7FAE0E7DA299DDCF</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Users/sarah/Music/iTunes/iTunes%20Media/Music/Compilations/Crazy%20Love/09%20You're%20Nobody%20Till%20Somebody%20Loves%20You%201.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+<key>5491</key>
+		<dict>
+			<key>Track ID</key><integer>5491</integer>
+			<key>Name</key><string>Who's That Creepin' - 105bpm</string>
+			<key>Artist</key><string>Big Bad Voodoo Daddy</string>
+			<key>Composer</key><string>Morris, Scotty</string>
+			<key>Album</key><string>This Beautiful Life</string>
+			<key>Grouping</key><string>Foxtrot,Lindy</string>
+			<key>Genre</key><string>Swing Nouveau</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>2935637</integer>
+			<key>Total Time</key><integer>285022</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>1999</integer>
+			<key>BPM</key><integer>106</integer>
+			<key>Date Modified</key><date>2010-09-17T09:49:18Z</date>
+			<key>Date Added</key><date>2010-06-24T02:14:19Z</date>
+			<key>Bit Rate</key><integer>81</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>10</integer>
+			<key>Play Date</key><integer>3384456737</integer>
+			<key>Play Date UTC</key><date>2011-04-01T05:52:17Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2010-06-28T22:10:29Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>3241ACDAB533C936</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/C:/Users/Sarah/Music/Marissa/Big%20Bad%20Voodoo%20Daddy/This%20Beautiful%20Life/03%20-%20Who's%20That%20Creepin'.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>7971</key>
+		<dict>
+			<key>Track ID</key><integer>7971</integer>
+			<key>Name</key><string>Who's That Creepin' - 105bpm</string>
+			<key>Artist</key><string>Big Bad Voodoo Daddy</string>
+			<key>Composer</key><string>Morris, Scotty</string>
+			<key>Album</key><string>This Beautiful Life</string>
+			<key>Grouping</key><string>Foxtrot,Lindy</string>
+			<key>Genre</key><string>Swing Nouveau</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>2935637</integer>
+			<key>Total Time</key><integer>285022</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>1999</integer>
+			<key>BPM</key><integer>106</integer>
+			<key>Date Modified</key><date>2010-09-17T09:49:18Z</date>
+			<key>Date Added</key><date>2012-07-26T03:59:21Z</date>
+			<key>Bit Rate</key><integer>81</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>334122DE0725B620</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/Users/sarah/Music/iTunes/iTunes%20Media/Music/Big%20Bad%20Voodoo%20Daddy/This%20Beautiful%20Life/03%20-%20Who's%20That%20Creepin'.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+	</dict>
+	<key>Playlists</key>
+	<array>
+		<dict>
+			<key>Name</key><string>Library</string>
+			<key>Master</key><true/>
+			<key>Playlist ID</key><integer>10527</integer>
+			<key>Playlist Persistent ID</key><string>BB3C4319653FDE69</string>
+			<key>Visible</key><false/>
+			<key>All Items</key><true/>
+			<key>Playlist Items</key>
+			<array>
+				<dict>
+					<key>Track ID</key><integer>3065</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>6783</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>10159</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>5017</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>5951</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>8971</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>5491</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7971</integer>
+				</dict>
+			</array>
+		</dict>
+		<dict>
+			<key>Name</key><string>Dance</string>
+			<key>Playlist ID</key><integer>19758</integer>
+			<key>Playlist Persistent ID</key><string>6A1AA6512C3F47E7</string>
+			<key>All Items</key><true/>
+			<key>Folder</key><true/>
+			<key>Playlist Items</key>
+			<array>
+				<dict>
+					<key>Track ID</key><integer>5491</integer>
+				</dict>	
+				<dict>
+					<key>Track ID</key><integer>5017</integer>
+				</dict>
+			</array>
+		</dict>
+	</array>
+</dict>
+</plist>
